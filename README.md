@@ -4,7 +4,7 @@ requirements.txt:
 streamlit==1.2.0 +
 openai==0.27.2 + 
 
-Baby Shark Tank is a Streamlit app leveraging OpenAI's GPT-3.5 Turbo and GPT-4 for a innovative business idea generation and pitch. It provides brand names, business and startup plans, design proposals, success predictors, and a prompt for a supporting application development. Also, it attempts to check for potential patent and trademark infringements.
+Baby Shark Tank is a Streamlit app leveraging OpenAI's GPT-3.5 Turbo and GPT-4 for a innovative business idea generation and pitch. It provides brand names, business and startup plans, design proposals, success predictors, and a prompt for a supporting application development.
 
 Features
 User-friendly interface for idea input
